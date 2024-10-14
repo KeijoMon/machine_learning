@@ -1,2 +1,2 @@
-# machine_learning
-Machine Learning Projects
+# Machine Learning
+This repository contains miscalleous machine learning projects.
