@@ -1,7 +1,9 @@
-# Machine Learning
+# Machine Learning and Data Analysis
 
-This repository contains miscellaneous machine learning projects. At the moment, the topics include:
+This repository contains miscellaneous data analysis and machine learning projects. At the moment, the topics include:
 
-1. Classification and regression models used in astronomical data to classify and predict redshifts of galaxies, quasars and stars.
+1. Classification and regression used in astronomical data to classify and predict redshifts of galaxies, quasars and stars. This is done by using Neural Networks and Deep Learning.
 
-2. Regression models used in used car sales data to predict prices and sales times of used cars.
+2. Regression used in car sales data to predict prices and sales times of used cars. This is done by using Linear Regression and Random Forest Regression. 
+
+3. Classification used in the Titanic dataset to predict the survivors. This is done by using k-Nearest Neighbors and Random Forest Classifier.
