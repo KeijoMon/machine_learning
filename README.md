@@ -7,3 +7,5 @@ This repository contains miscellaneous data analysis and machine learning projec
 2. Regression used in car sales data to predict prices and sales times of used cars. This is done by using Linear Regression and Random Forest Regression. 
 
 3. Classification used in the Titanic dataset to predict the survivors. This is done by using k-Nearest Neighbors and Random Forest Classifier.
+
+4. Regression used in Soccer Player Data to predict the goals scored by players. This is done by using Linear Regression.
