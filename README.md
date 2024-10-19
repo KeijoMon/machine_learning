@@ -9,3 +9,5 @@ This repository contains miscellaneous data analysis and machine learning projec
 3. Classification used in the Titanic dataset to predict the survivors. This is done by using k-Nearest Neighbors and Random Forest Classifier.
 
 4. Regression used in Soccer Player Data to predict the goals scored by players. This is done by using Linear Regression.
+
+5. Classification used in voice data to predict the gender (female or male). This is done by several different machine learning algorithms.
